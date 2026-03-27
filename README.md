@@ -21,7 +21,7 @@ Ao utilizar modelagem 3D precisa e dados de geolocalização, o sistema mitiga a
 
 ## 🚀 Impacto Operacional
 <p align="justify">
-No contexto da gestão de cidades inteligentes, o framework não apenas otimiza a identificação de componentes da rede, mas também fortalece a precisão na tomada de decisões estratégicas para o saneamento básico. Esta ferramenta representa um avanço significativo na modernização da infraestrutura hídrica, unindo rigor técnico e tecnologia de ponta para garantir uma operação mais eficiente, sustentável e menos disruptiva para o quotidiano urbano.
+No contexto da gestão de cidades inteligentes, o framework não apenas otimiza a identificação de componentes da rede, mas também fortalece a precisão na tomada de decisões estratégicas para o saneamento básico. Esta ferramenta representa um avanço significativo na modernização da infraestrutura hídrica, unindo  técnica e tecnologia para garantir uma operação mais eficiente no ambiente urbano.
 </p>
 
 ## 🎓 Contexto Acadêmico
