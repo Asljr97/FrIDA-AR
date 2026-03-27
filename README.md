@@ -11,7 +11,7 @@
 
 ## 📍 Visão Geral
 <p align="justify">
-O FrIDA-AR apresenta-se como um framework inovador e estruturado para o gerenciamento de redes de distribuição de água, integrando de forma sinérgica o poder dos Sistemas de Informações Geográficas (GIS) à visualização imersiva da Realidade Aumentada. O objetivo central desta solução é transpor as limitações das plantas cadastrais convencionais e dos dados geoespaciais estáticos, permitindo que técnicos e gestores visualizem a infraestrutura de tubulações subterrâneas diretamente no ambiente real através de dispositivos móveis.
+O FrIDA-AR apresenta-se como um framework inovador e estruturado para o gerenciamento de redes de distribuição de água, integrando de forma sinérgica os Sistemas de Informações Geográficas (GIS) à visualização imersiva da Realidade Aumentada. O objetivo central desta solução é transpor as limitações das plantas cadastrais convencionais e dos dados geoespaciais estáticos, permitindo que técnicos e gestores visualizem a infraestrutura de tubulações subterrâneas diretamente no ambiente real através de dispositivos móveis e auxiliar as manutenções no dia a dia.
 </p>
 
 ## 🛠️ Proposta Tecnológica
