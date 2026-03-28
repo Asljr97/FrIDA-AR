@@ -29,6 +29,19 @@ No contexto da gestão de cidades inteligentes, o framework não apenas otimiza 
 Este projeto foi desenvolvido como parte de uma investigação de mestrado na Universidade Católica de Pelotas, aplicando conceitos avançados de engenharia eletrônica e computação para resolver desafios reais de infraestrutura urbana. O estudo de caso foi aplicado em parceria com o SANEP, demonstrando a viabilidade prática da integração entre sistemas GIS e realidade aumentada para o setor público.
 </p>
 
+<div align="center">
+<h3>🎥 Demonstração Prática</h3>
+<p>Confira o FrIDA-AR em operação real nas ruas de Pelotas-RS:</p>
+<a href="https://youtu.be/3Uxv-iZaHOg" target="_blank">
+<img src="https://img.shields.io/badge/ASSISTIR%20V%C3%8DDEO-YouTube-red?style=for-the-badge&logo=youtube" alt="Link para o vídeo no YouTube">
+</a>
+
+
+<p><i>Acesse a demonstração: <a href="https://youtu.be/3Uxv-iZaHOg">youtu.be/3Uxv-iZaHOg</a></i></p>
+</div>
+
+
+
 ---
 
 <div align="center">
