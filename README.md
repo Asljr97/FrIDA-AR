@@ -46,5 +46,6 @@ Este projeto foi desenvolvido como parte de uma investigação de mestrado na Un
 
 <div align="center">
   <p><i>Trabalho desenvolvido por Albio de Souza Leite Júnior sob orientação do Prof. Dr. Lizandro de Souza Oliveira.</i></p>
+  <p><i>Contatos: albio.junior@sou.ucpel.edu.br e lizandro.oliveira@ucpel.edu.br</i></p>
   <p>2026 • Pelotas-RS</p>
 </div>
