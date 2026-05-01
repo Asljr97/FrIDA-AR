@@ -1,2 +1,17 @@
 
-Neste diretório estão exemplificadas imagens do estudo de caso, com a validação em campo da abordagem proposta.
+## 🌍 Estudo de Caso: Aplicação em Pelotas-RS
+
+A validade do framework **FrIDA-AR** foi comprovada por meio de um estudo de caso aplicado na malha urbana de Pelotas, Rio Grande do Sul. O projeto contou com o apoio técnico do **SANEP** (Serviço Autônomo de Saneamento de Pelotas), permitindo o acesso a dados reais de infraestrutura hídrica.
+
+### 🔍 Metodologia de Campo
+O experimento seguiu as seguintes etapas:
+1. **Coleta de Dados:** Extração de planos cadastrais e dados geoespaciais da rede de distribuição hídrica local utilizando o **QGIS**.
+2. **Modelagem:** Conversão técnica das tubulações em modelos 3D georreferenciados, respeitando escalas e profundidades reais.
+3. **Validação In-Situ:** Testes de visualização imersiva realizados diretamente na via pública, onde o sistema projetou a rede subterrânea sobre o pavimento com alta precisão.
+
+### 📈 Resultados Obtidos
+* **Precisão Geoespacial:** A integração entre o sensor GPS e a cena de RA permitiu um alinhamento satisfatório entre os modelos virtuais e as estruturas físicas.
+* **Redução de Danos:** A ferramenta provou ser eficaz para evitar perfurações acidentais em dutos durante manutenções corretivas.
+* **Eficiência Operacional:** Técnicos puderam identificar válvulas e conexões invisíveis a olho nu, agilizando o diagnóstico de problemas na rede.
+
+> **Nota:** Este estudo de caso é parte integrante do trabalho submetido à *IEEE Latin America Transactions* (ID: 10310).
