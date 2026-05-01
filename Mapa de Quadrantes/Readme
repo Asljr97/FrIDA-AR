@@ -1,2 +1,17 @@
 
-Neste repositório estão incluídas as imagens com a estratégia de divisão em quadrantes para a área do estudo de caso.
+# 🗺️ Setorização e Quadrantes de Estudo
+
+Este diretório contém o mapeamento e a divisão operacional da área de estudo em Pelotas-RS, utilizada para a validação do framework **FrIDA-AR**.
+
+## 📐 Estratégia de Divisão
+Para garantir a precisão na sobreposição da Realidade Aumentada e facilitar a organização dos dados hídricos extraídos do **SANEP**, a zona de interesse foi subdividida em quadrantes operacionais. Esta metodologia permitiu:
+
+*   **Organização Espacial**: Identificação alfanumérica (Q1, Q2, etc.) para o mapeamento sistemático das redes de distribuição.
+*   **Validação por Amostragem**: Escolha de setores específicos para a realização dos testes de visualização imersiva *in loco*.
+*   **Gestão de Dados**: Estruturação de camadas geoespaciais no QGIS de forma fragmentada, otimizando o processamento em dispositivos móveis.
+
+## 📋 Conteúdo
+O mapa presente nesta pasta ilustra a delimitação geográfica exata utilizada durante a fase de coleta de dados e testes de campo. Cada quadrante representa uma área de inspeção onde os modelos 3D georreferenciados foram projetados e validados em relação à infraestrutura real.
+
+---
+> **Referência Acadêmica**: Esta setorização fundamenta a seção de Resultados e Discussão do manuscrito submetido à *IEEE Latin America Transactions* (ID: 10310).
