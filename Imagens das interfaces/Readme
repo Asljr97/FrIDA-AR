@@ -1,2 +1,26 @@
 
-Neste diretório constam as imagens das interfaces criadas no software Adobe Aero versão 0.24.6 a qual foi utilizado para desenvolver todo o FrIDA - AR.
+# 🖥️ Interfaces do Sistema (FrIDA-AR)
+
+Este diretório contém os registros visuais das interfaces utilizadas no desenvolvimento do framework, desde o processamento de dados geoespaciais até a composição da cena de Realidade Aumentada.
+
+## 🛠️ Ferramentas Utilizadas
+
+### 1. QGIS Desktop
+Utilizado para o processamento de dados geoespaciais e vetorização da rede de distribuição hídrica da área de estudo em Pelotas. É o ponto de partida para a extração dos dados reais do SANEP.
+
+### 2. Tinkercad
+Empregado na modelagem 3D técnica das tubulações. Os modelos são criados de forma translúcida para permitir a visualização de fluxos e propriedades internas, garantindo a fidelidade geométrica necessária para a inspeção.
+
+### 3. Adobe Aero
+Interface responsável pela composição da cena imersiva. Aqui, os modelos 3D georreferenciados são ancorados sobre a malha urbana, permitindo o gerenciamento de camadas e propriedades de transformação para visualização em dispositivos móveis.
+
+## 📸 Galeria de Telas
+
+| Interface | Descrição Técnica |
+| :--- | :--- |
+| **QGIS** | Processamento de vetores e delimitação de quadrantes operacionais. |
+| **Tinkercad** | Configuração de parâmetros geométricos e transparência de ativos. |
+| **Adobe Aero** | Alinhamento de ativos digitais sobre mapas aéreos georreferenciados. |
+
+---
+> **Nota:** Estas capturas de tela compõem a seção de metodologia do trabalho submetido à *IEEE Latin America Transactions* (ID: 10310).
