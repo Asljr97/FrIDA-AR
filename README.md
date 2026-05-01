@@ -5,9 +5,9 @@
 
 Manuscript ID: IEEE LATAM Submission: 10310
 
-Autores:
-* Albio de Souza Leite Júnior    
-* Lizandro de Souza Oliveira
+Autores: \
+Albio de Souza Leite Júnior    
+Lizandro de Souza Oliveira
 
 Afiliação:
 Universidade Católica de Pelotas\
