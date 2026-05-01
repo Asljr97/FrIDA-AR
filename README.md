@@ -2,6 +2,17 @@
   <h1>FrIDA-AR</h1>
   <p><b>Framework Integrado para Redes de Distribuição de Água com Suporte em Realidade Aumentada</b></p>
 
+---
+
+Manuscript ID: IEEE LATAM Submission ID: 10310
+
+Autores:
+* Albio de Souza Leite Júnior    Afiliação: Universidade Católica de Pelotas
+* Lizandro de Souza Oliveira     Afiliação: Universidade Católica de Pelotas
+
+---
+  
+
   ![Status](https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen)
   ![Área](https://img.shields.io/badge/%C3%81rea-Engenharia-blue)
   ![Tech](https://img.shields.io/badge/Tecnologia-Realidade%20Aumentada-blueviolet)
