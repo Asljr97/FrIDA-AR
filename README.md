@@ -4,11 +4,11 @@
 
 ---
 
-Manuscript ID: IEEE LATAM Submission ID: 10310
+Manuscript ID: IEEE LATAM Submission: 10310
 
 Autores:
-* Albio de Souza Leite Júnior    Afiliação: Universidade Católica de Pelotas
-* Lizandro de Souza Oliveira     Afiliação: Universidade Católica de Pelotas
+ Albio de Souza Leite Júnior    Afiliação: Universidade Católica de Pelotas
+ Lizandro de Souza Oliveira     Afiliação: Universidade Católica de Pelotas
 
 ---
   
