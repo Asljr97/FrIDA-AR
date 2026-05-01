@@ -19,6 +19,19 @@
   ![Tech](https://img.shields.io/badge/Tecnologia-Realidade%20Aumentada-blueviolet)
 </div>
 
+
+---
+
+**Manuscript ID:** IEEE LATAM Submission ID: 10310 **Authors:**
+
+* Nathália Fassbender Tessmann
+* Albio de Souza Leite Júnior
+* Lizandro de Souza Oliveira
+
+---
+
+<br>
+
 <br>
 
 ## 📍 Visão Geral
