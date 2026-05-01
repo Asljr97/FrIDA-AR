@@ -10,14 +10,15 @@
 
 ---
 
-**Manuscript ID:** IEEE LATAM Submission ID: 10310 **Authors:**
+**Manuscrito ID:** IEEE LATAM Submission ID: 10310 **Autores:**
 
 * Albio de Souza Leite Júnior
 * Lizandro de Souza Oliveira
 
----
+**Afiliação:** 
+* Universidade Católica de Pelotas (UCPel), Pelotas - RS, Brasil
 
-<br>
+---
 
 <br>
 
