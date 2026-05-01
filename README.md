@@ -12,7 +12,6 @@
 
 **Manuscript ID:** IEEE LATAM Submission ID: 10310 **Authors:**
 
-* Nathália Fassbender Tessmann
 * Albio de Souza Leite Júnior
 * Lizandro de Souza Oliveira
 
