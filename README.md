@@ -41,6 +41,14 @@ No contexto da gestão de cidades inteligentes, o framework não apenas otimiza 
 Este projeto foi desenvolvido como parte de uma investigação de mestrado na Universidade Católica de Pelotas, aplicando conceitos avançados de engenharia eletrônica e computação para resolver desafios reais de infraestrutura urbana. O estudo de caso foi aplicado em parceria com o SANEP, demonstrando a viabilidade prática da integração entre sistemas GIS e realidade aumentada para o setor público.
 </p>
 
+## 💻 Requisitos de Sistema
+Para a execução plena do framework FrIDA-AR, são recomendados os seguintes requisitos técnicos:
+
+*   **Software de Desktop:** QGIS (versão 3.x ou superior) para processamento geoespacial e Adobe Aero Desktop para composição de cenas.
+*   **Dispositivo Móvel:** Smartphone ou Tablet com suporte nativo a ARKit (iOS) ou ARCore (Android).
+*   **Conectividade:** Acesso à internet para carregamento de modelos em nuvem e sensor GPS integrado para geolocalização dos ativos.
+*   **Hardware Recomendado:** Mínimo de 8GB de RAM para processamento de malhas 3D no desktop.
+
 <div align="center">
 <h3>🎥 Demonstração Prática</h3>
 <p>Confira o FrIDA-AR em operação real nas ruas de Pelotas-RS:</p>
