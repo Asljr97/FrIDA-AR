@@ -49,7 +49,7 @@ Para a execução plena do framework FrIDA-AR, são recomendados os seguintes re
 *   **Dispositivo Móvel:** Smartphone ou Tablet com suporte nativo a ARKit (iOS) ou ARCore (Android).
 *   **Conectividade:** Acesso à internet para carregamento de modelos em nuvem e sensor GPS integrado para geolocalização dos ativos.
 *   **Hardware Recomendado:** Mínimo de 8GB de RAM para processamento de malhas 3D no desktop.
-<\p>
+
 
 <div align="center">
 <h3>🎥 Demonstração Prática</h3>
